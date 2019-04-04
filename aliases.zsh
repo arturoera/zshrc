@@ -14,6 +14,7 @@ alias grep='grep --color=auto'
 alias neofetch='neofetch --config ~/.nf.conf'
 alias neofetchu='neofetch --config ~/.nf.conf -su'
 alias i='or-infra'
+alias ll='ls -la'
 
 alias devclus0='kubectl --context devclus0'
 alias staging0='kubectl --context staging0'
